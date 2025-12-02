@@ -170,8 +170,4 @@ Open the `.ipynb` file in Jupyter or Google Colab.
 * **Member 3:** Fuzzy logic system design
 * **Member 4:** Diet recommendation engine + documentation
 
----
 
-
-
-I can create them too!
